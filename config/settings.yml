@@ -1,0 +1,7 @@
+plugins:
+  topic_footer_message_enabled:
+    default: true
+    client: true
+  topic_footer_custom_message:
+    default: "<b>⚠️ Important:</b> Never forget that you are loved! Don't give up, fight. ⚠️"
+    client: true
